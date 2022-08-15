@@ -1,0 +1,7 @@
+[user]
+	name = Vlad Dracula
+[gui]
+	recentrepo = C:/Users/Eya/shell
+	recentrepo = C:/Users/Eya/Documents/Biostat/Datasets
+[alias]
+	graph = log --all --graph --decorate --oneline\n\n
